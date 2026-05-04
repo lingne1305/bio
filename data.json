@@ -1,0 +1,41 @@
+{
+    "profile":{
+        "full_name": "Ling",
+        "username": null,
+        "bio": "Chào mừng đến Bio của Ling",
+        "imageUrl": "/bio/images/avatar2.jpg",
+        "coverUrl": "/bio/images/banner.jpg"
+    },
+    "socials":[
+        {
+            "id": 1,
+            "name": "mail",
+            "value": "thanhlin.work@gmail.com",
+            "description": null,
+            "type": "mail"
+        },
+        {
+            "id": 2,
+            "name": "instagram",
+            "value": "https://www.instagram.com/whois_l.ng_",
+            "description": null,
+            "type": "link"
+        },
+        {
+            "id": 3,
+            "name": "zalo",
+            "value": "http://zaloapp.com/qr/p/v8qb124d9ptv",
+            "description": null,
+            "type": "link"
+        }
+    ],
+    "cards":[
+        {
+            "name": "Tặng Ling trà sữa",
+            "description": null,
+            "link": "#",
+            "value": {},
+            "index": 1
+        }
+    ]
+}
